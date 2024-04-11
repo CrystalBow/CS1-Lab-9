@@ -1,0 +1,3 @@
+C:/Users/Yimer/Software Dev/CS1-Lab-9/cmake-build-debug/CMakeFiles/CS1_Lab_9.dir
+C:/Users/Yimer/Software Dev/CS1-Lab-9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yimer/Software Dev/CS1-Lab-9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
