@@ -97,6 +97,7 @@ void displayRecordsInHash(struct HashType **elTable, int hashSz)
             }
         }
     }
+    free(elTable);
 }
 
 int main(void)
@@ -127,4 +128,6 @@ int main(void)
         prev->next = temp;
     }
     displayRecordsInHash(elTable, 10);
+    free(pRecords);
+    return 0;
 }
